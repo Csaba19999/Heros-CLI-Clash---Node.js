@@ -23,5 +23,5 @@ secondHero.equipWeapon("War Hammer");
 
 const arena = new Arena(firstHero, secondHero);
 
-//4. Az alábbi parancsal indíthatod el a harcot a konzolon.
+//4. Az alábbi paranccsal indíthatod el a harcot a konzolon.
 //npm start
