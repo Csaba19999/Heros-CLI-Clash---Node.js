@@ -2,6 +2,8 @@
 
 This CLI application is made for interview purposes. The program is runnable in the console. You can choose different heroes and weapons with unique abilities.
 
+Total development time: 10 hours
+
 ## Installation
 
 clone the repository and run the following command inside the root folder with your console.
