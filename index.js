@@ -25,5 +25,3 @@ const arena = new Arena(firstHero, secondHero);
 
 //4. Az alábbi parancsal indíthatod el a harcot a konzolon.
 //npm start
-
-//https://prioris.hu/app/uploads/2022/07/JS_TS_Beugro-.pdf
